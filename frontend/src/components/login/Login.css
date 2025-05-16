@@ -1,0 +1,23 @@
+.ll{
+  font-family: "Cormorant Garamond", serif;
+  color: lightgray;
+}
+.login{
+  font-family: "Halant", serif;
+  color: #17A2B8;
+}
+/* .form{
+  margin:0% 20%;
+  padding:10%;
+} */
+.log{
+  background-color: #007BFF; /* Blue */
+  color: #FFFFFF;
+  margin-top: 5%;
+  display: block;
+  margin-left: auto;
+}
+.log:hover{
+  color: #000000;
+  background-color: #28A745;
+}

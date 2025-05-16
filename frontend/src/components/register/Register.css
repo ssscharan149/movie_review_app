@@ -1,0 +1,22 @@
+.label{
+  font-family: "Cormorant Garamond", serif;
+  color:#a6b9cb;
+}
+.heading{
+  font-family: "Halant", serif;
+  color:#327fc7;
+}
+.form{
+  margin:0% 20%;
+  padding:10%;
+}
+.reg{
+  background-color: #17A2B8; /* Cyan */
+  color: #FFFFFF;
+  margin-top: 5%;
+  
+}
+.reg:hover{
+  color: #a94aedbd;
+  background-color: #a6b9cb;
+}
