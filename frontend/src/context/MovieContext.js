@@ -79,7 +79,7 @@ export const MovieProvider = ({children})=>{
 
   useEffect(()=>{
     fetchMovies()
-  })
+  },[])
 
   return(
     <MoviesContext.Provider value={{topMovies,recentMovies,topTv,recentTv}}>
